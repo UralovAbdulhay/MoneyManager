@@ -1,0 +1,8 @@
+1) userni delete qilish mumkin emas
+2) category hamma uchun va o'zi uchuntakrorlanmas va uni o'chirish mukin emas
+3) category larga paymentlarni listini ulash shert emas
+
+4) ownerControllerni yozish
+5) responslarni to'girlash
+6) securityConfigni to'girlash
+7) 
